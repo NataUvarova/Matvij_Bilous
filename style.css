@@ -2,9 +2,11 @@ body{
   font-family: sans-serif;
   background-color:#28698f;
   margin: 0;
+  width:auto;
   
 }
 header{
+  width:auto;
     background-color: #28698f;
     height: 60;
     color: #0cf5ca;
@@ -41,7 +43,7 @@ h2{
  }
  footer{
      background-color: #28698f;
-     width: 800px;
+     width: auto;
      height: 40px;
      padding:20px;
  }
